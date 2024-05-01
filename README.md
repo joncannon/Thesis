@@ -1,6 +1,6 @@
 Modelling tempo representation in the basal ganglia, and its role in sensorimotor synchronization.
 
-Authors: Jacob Duda, Dr. Jonathan Cannon
+Authors: Jacob Duda, Dr. Jonathan Cannon (testing now)
 
 Affiliations: McMaster University
 
